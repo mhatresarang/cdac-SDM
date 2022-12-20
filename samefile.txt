@@ -1,1 +1,4 @@
 This is done by developer one for same file 
+
+now we are doing collaboration with two developers on same file 
+1.editing the notepad through dev 1 

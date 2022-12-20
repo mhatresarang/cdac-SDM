@@ -1,0 +1,4 @@
+Travelling --35000
+Food	   --3800
+Clothes    --9500
+Fuel       --78200

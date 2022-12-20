@@ -1,1 +1,2 @@
 This is second file for git 
+This is from developer two for conflict message example
